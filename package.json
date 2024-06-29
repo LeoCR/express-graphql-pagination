@@ -1,0 +1,22 @@
+{
+  "name": "express-js-graphql",
+  "version": "1.0.0",
+  "description": "GraphQL with ExpressJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "graphql",
+    "expressjs"
+  ],
+  "author": "www.leonardoaranibar.co.cr",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "dataloader": "^2.2.2",
+    "express": "^4.19.2",
+    "graphql": "^16.9.0"
+  }
+}
