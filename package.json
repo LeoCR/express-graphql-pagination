@@ -4,7 +4,6 @@
   "description": "GraphQL with ExpressJS",
   "main": "server.js",
   "scripts": {
-    "test": "test",
     "dev": "node server.js"
   },
   "keywords": [
