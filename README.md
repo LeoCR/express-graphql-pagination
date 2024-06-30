@@ -1,4 +1,4 @@
-# Express + GraphQL Pagination
+# ExpressJs + GraphQL Pagination
 
 This is a simple example about how to make a pagination in GraphQL using Cursor and Express with DataLoader.
 
