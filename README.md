@@ -70,3 +70,7 @@ query posts($first: Int, $limit: Int) {
   }
 }
 ```
+
+# How To run?
+
+In the root of the project run into terminal this command: `npm run dev`
